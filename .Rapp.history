@@ -1,0 +1,14 @@
+help update
+help
+help(update)
+update r
+ls
+ls()
+dir()
+getwd()
+source("myfunction.R")
+ls()
+source("myfunction.R")
+ls()
+second(4)
+second(4:10000)
